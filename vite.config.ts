@@ -15,7 +15,7 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  base: '/kurs-work/',
+  base: '/kurs-work-2.0/',
   build: {
     outDir: 'docs',
   },
